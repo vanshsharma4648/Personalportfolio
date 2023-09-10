@@ -1,0 +1,52 @@
+[
+  {
+    "name": "EWASTE ALCHEMY",
+    "desc": " Through an intuitive website and strategic partnerships, we offer reduced environmental impact and cost savings.",
+    "image": "EWASTE",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ewastealchemytracker.netlify.app/",
+      "code": "https://github.com/vanshsharma4648/ewastealchemy.github.io"
+    }
+  },
+  {
+    "name": "TEMP CONVERTOR",
+    "desc": " This application allows users to effortlessly convert temperatures between various units,  for quick and accurate temperature conversions..",
+    "image": "tempconvo1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://temperatureconvetor.netlify.app/",
+      "code": "https://github.com/vanshsharma4648/Temperatureconvertor"
+    }
+  },
+  {
+    "name": "NETFLIX CLONE",
+    "desc": "A web application that replicates the popular Netflix streaming service, providing a seamless and user-friendly platform for streaming movies and TV shows",
+    "image": "netflix1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://vanshsharmanetflixclone.netlify.app",
+      "code": "https://github.com/vanshsharma4648/NETFLIX-CLONE.IO"
+    }
+  },
+  {
+    "name": "AAROGYA DIET PLANNER",
+    "desc": "Can create a personalised diet planner.",
+    "image": "aarogya1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/vansh-sharma-800134226_python-development-ui-activity-7029862573076361216-WES0?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/vanshsharma4648/FIRST-CALC.-"
+    }
+  },
+  {
+    "name": "GUI CALCULATOR",
+    "desc": "BASIC CALC USING PYTHON.",
+    "image": "gui1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/posts/vansh-sharma-800134226_python-development-ui-activity-7029862573076361216-WES0?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/vanshsharma4648/FIRST-CALC.-"
+    }
+  }
+]
